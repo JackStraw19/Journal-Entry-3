@@ -1,0 +1,20 @@
+fieldset {
+    display: flex;
+    flex-direction: column;
+}
+
+.entryLog {
+    display: flex-box;
+    flex-direction: column;
+    border: 5px solid;
+    justify-content: space-evenly;
+}
+
+.entry {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid aqua;
+    justify-content: space-evenly; 
+    padding: 10px 10px 10px 10px;
+    background-color: grey;
+}
